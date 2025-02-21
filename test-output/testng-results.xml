@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-18T11:43:59 EET" name="Master Suite" finished-at="2025-02-18T11:44:16 EET" duration-ms="17532">
+    <groups>
+      <group name="Master">
+        <method signature="TC_001_AccountRegistrationTest.verifyRegistration()[pri:0, instance:testCases.TC_001_AccountRegistrationClass@74bf1791]" name="verifyRegistration" class="testCases.TC_001_AccountRegistrationClass"/>
+        <method signature="TC_002_LoginTest.verifyLogin()[pri:0, instance:testCases.TC_002_LoginClass@6239aba6]" name="verifyLogin" class="testCases.TC_002_LoginClass"/>
+      </group> <!-- Master -->
+      <group name="Sanity">
+        <method signature="TC_002_LoginTest.verifyLogin()[pri:0, instance:testCases.TC_002_LoginClass@6239aba6]" name="verifyLogin" class="testCases.TC_002_LoginClass"/>
+      </group> <!-- Sanity -->
+      <group name="Regression">
+        <method signature="TC_001_AccountRegistrationTest.verifyRegistration()[pri:0, instance:testCases.TC_001_AccountRegistrationClass@74bf1791]" name="verifyRegistration" class="testCases.TC_001_AccountRegistrationClass"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test started-at="2025-02-18T11:43:59 EET" name="E:/WORK/IntelliJ Projects/OpenCart/src/test/java/testCases" finished-at="2025-02-18T11:44:16 EET" duration-ms="17532">
+      <class name="testCases.TC_001_AccountRegistrationClass">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_001_AccountRegistrationClass@74bf1791]" started-at="2025-02-18T11:43:59 EET" name="setup" finished-at="2025-02-18T11:44:05 EET" duration-ms="5876" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyRegistration()[pri:0, instance:testCases.TC_001_AccountRegistrationClass@74bf1791]" started-at="2025-02-18T11:44:05 EET" name="verifyRegistration" finished-at="2025-02-18T11:44:07 EET" duration-ms="2812" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegistration -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_001_AccountRegistrationClass@74bf1791]" started-at="2025-02-18T11:44:07 EET" name="tearDown" finished-at="2025-02-18T11:44:08 EET" duration-ms="829" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_001_AccountRegistrationClass -->
+      <class name="testCases.TC_002_LoginClass">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_002_LoginClass@6239aba6]" started-at="2025-02-18T11:44:08 EET" name="setup" finished-at="2025-02-18T11:44:13 EET" duration-ms="5123" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLogin()[pri:0, instance:testCases.TC_002_LoginClass@6239aba6]" started-at="2025-02-18T11:44:13 EET" name="verifyLogin" finished-at="2025-02-18T11:44:15 EET" duration-ms="1826" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_002_LoginClass@6239aba6]" started-at="2025-02-18T11:44:15 EET" name="tearDown" finished-at="2025-02-18T11:44:16 EET" duration-ms="836" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_002_LoginClass -->
+    </test> <!-- E:/WORK/IntelliJ Projects/OpenCart/src/test/java/testCases -->
+  </suite> <!-- Master Suite -->
+</testng-results>

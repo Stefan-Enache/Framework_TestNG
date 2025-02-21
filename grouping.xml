@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Master Suite" thread-count="5" parallel="tests">
+    <groups>
+        <run>
+            <include name="Master"/>
+<!--            <exclude name="DDT"/>-->
+        </run>
+    </groups>
+    <listeners>
+        <listener class-name="utilities.ExtentReportManager"/>
+    </listeners>
+    <test verbose="2" preserve-order="true" name="E:/WORK/IntelliJ Projects/OpenCart/src/test/java/testCases">
+        <parameter name="os" value="Windows"/>
+        <parameter name="browser" value="firefox"/>
+        <classes>
+            <class name="testCases.TC_001_AccountRegistrationClass"/>
+            <class name="testCases.TC_002_LoginClass"/>
+<!--            <class name="testCases.TC_003_LoginDDT"/>-->
+        </classes>
+    </test>
+</suite>

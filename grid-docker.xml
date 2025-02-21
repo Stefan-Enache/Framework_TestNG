@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Grid Docker">
+    <listeners>
+        <listener class-name="utilities.ExtentReportManager"/>
+    </listeners>
+
+    <test verbose="2" preserve-order="true" name="Chrome">
+        <parameter name="os" value="Linux"/>
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="testCases.TC_001_AccountRegistrationClass"/>
+            <class name="testCases.TC_002_LoginClass"/>
+        </classes>
+    </test>
+
+    <test verbose="2" preserve-order="true" name="Firefox">
+        <parameter name="os" value="Linux"/>
+        <parameter name="browser" value="firefox"/>
+        <classes>
+            <class name="testCases.TC_001_AccountRegistrationClass"/>
+            <class name="testCases.TC_002_LoginClass"/>
+        </classes>
+    </test>
+</suite>

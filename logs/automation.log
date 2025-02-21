@@ -1,0 +1,215 @@
+21-02-2025 13:18:02 DEBUG TestNG:82 - suiteXmlPath: "E:\WORK\IntelliJ_Projects\OpenCart - TestNG\master.xml"
+21-02-2025 13:18:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 2 ms.
+21-02-2025 13:18:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+21-02-2025 13:18:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21-02-2025 13:18:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21-02-2025 13:18:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21-02-2025 13:18:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21-02-2025 13:18:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21-02-2025 13:18:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21-02-2025 13:18:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+21-02-2025 13:18:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+21-02-2025 13:18:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21-02-2025 13:18:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21-02-2025 13:18:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21-02-2025 13:18:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21-02-2025 13:18:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21-02-2025 13:18:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21-02-2025 13:18:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21-02-2025 13:18:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21-02-2025 13:18:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21-02-2025 13:18:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21-02-2025 13:18:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21-02-2025 13:18:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21-02-2025 13:18:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21-02-2025 13:18:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21-02-2025 13:18:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21-02-2025 13:18:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21-02-2025 13:18:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21-02-2025 13:18:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21-02-2025 13:18:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21-02-2025 13:18:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21-02-2025 13:18:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21-02-2025 13:18:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+21-02-2025 13:18:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21-02-2025 13:18:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21-02-2025 13:18:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21-02-2025 13:18:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21-02-2025 13:18:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21-02-2025 13:18:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21-02-2025 13:18:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21-02-2025 13:18:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21-02-2025 13:18:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21-02-2025 13:18:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21-02-2025 13:18:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21-02-2025 13:18:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21-02-2025 13:18:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+21-02-2025 13:18:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 4 ms.
+21-02-2025 13:18:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21-02-2025 13:18:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21-02-2025 13:18:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21-02-2025 13:18:02 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21-02-2025 13:18:02 INFO  Utils:112 - [TestNG] Running:
+  E:\WORK\IntelliJ_Projects\OpenCart - TestNG\master.xml
+
+21-02-2025 13:18:02 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+21-02-2025 13:18:09 INFO  TC_001_AccountRegistrationClass:12 - **** Starting TC_001_AccountRegistrationTest ****
+21-02-2025 13:18:09 INFO  TC_001_AccountRegistrationClass:17 - Clicked on My Account
+21-02-2025 13:18:09 INFO  TC_001_AccountRegistrationClass:19 - Clicked on Register
+21-02-2025 13:18:11 INFO  TC_001_AccountRegistrationClass:32 - Filled input
+21-02-2025 13:18:11 INFO  TC_001_AccountRegistrationClass:35 - Verified 'Account Created!' message
+21-02-2025 13:18:11 INFO  TC_001_AccountRegistrationClass:47 - **** Finished TC_001_AccountRegistrationTest ****
+21-02-2025 13:18:15 INFO  TC_002_LoginClass:13 - **** Starting TC_002_LoginTest ****
+21-02-2025 13:18:17 INFO  TC_002_LoginClass:23 - Login performed
+21-02-2025 13:18:17 INFO  TC_002_LoginClass:27 - 'My Account' verified
+21-02-2025 13:18:17 INFO  TC_002_LoginClass:31 - **** Finished TC_002_LoginTest ****
+21-02-2025 13:18:19 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@51ec2856: 0 ms
+21-02-2025 13:18:35 DEBUG TestNG:82 - suiteXmlPath: "E:\WORK\IntelliJ_Projects\OpenCart - TestNG\master.xml"
+21-02-2025 13:18:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+21-02-2025 13:18:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21-02-2025 13:18:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21-02-2025 13:18:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21-02-2025 13:18:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21-02-2025 13:18:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21-02-2025 13:18:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21-02-2025 13:18:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21-02-2025 13:18:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+21-02-2025 13:18:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 13 ms.
+21-02-2025 13:18:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21-02-2025 13:18:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21-02-2025 13:18:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21-02-2025 13:18:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21-02-2025 13:18:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21-02-2025 13:18:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21-02-2025 13:18:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21-02-2025 13:18:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21-02-2025 13:18:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21-02-2025 13:18:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21-02-2025 13:18:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21-02-2025 13:18:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21-02-2025 13:18:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21-02-2025 13:18:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21-02-2025 13:18:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+21-02-2025 13:18:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21-02-2025 13:18:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21-02-2025 13:18:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21-02-2025 13:18:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+21-02-2025 13:18:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+21-02-2025 13:18:35 INFO  Utils:112 - [TestNG] Running:
+  E:\WORK\IntelliJ_Projects\OpenCart - TestNG\master.xml
+
+21-02-2025 13:18:35 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+21-02-2025 13:18:39 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/_rels/workbook.xml.rels
+21-02-2025 13:18:39 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21-02-2025 13:18:39 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /_rels/.rels
+21-02-2025 13:18:40 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21-02-2025 13:18:40 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/_rels/workbook.xml.rels
+21-02-2025 13:18:40 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21-02-2025 13:18:40 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /_rels/.rels
+21-02-2025 13:18:40 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21-02-2025 13:18:40 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/_rels/workbook.xml.rels
+21-02-2025 13:18:40 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21-02-2025 13:18:40 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /_rels/.rels
+21-02-2025 13:18:40 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21-02-2025 13:18:40 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/_rels/workbook.xml.rels
+21-02-2025 13:18:40 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21-02-2025 13:18:40 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /_rels/.rels
+21-02-2025 13:18:40 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21-02-2025 13:18:40 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/_rels/workbook.xml.rels
+21-02-2025 13:18:40 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21-02-2025 13:18:40 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /_rels/.rels
+21-02-2025 13:18:40 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21-02-2025 13:18:40 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/_rels/workbook.xml.rels
+21-02-2025 13:18:40 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21-02-2025 13:18:40 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /_rels/.rels
+21-02-2025 13:18:40 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21-02-2025 13:18:40 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/_rels/workbook.xml.rels
+21-02-2025 13:18:40 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21-02-2025 13:18:40 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /_rels/.rels
+21-02-2025 13:18:40 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21-02-2025 13:18:40 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/_rels/workbook.xml.rels
+21-02-2025 13:18:40 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21-02-2025 13:18:40 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /_rels/.rels
+21-02-2025 13:18:40 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21-02-2025 13:18:40 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/_rels/workbook.xml.rels
+21-02-2025 13:18:40 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21-02-2025 13:18:40 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /_rels/.rels
+21-02-2025 13:18:40 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21-02-2025 13:18:40 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/_rels/workbook.xml.rels
+21-02-2025 13:18:40 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21-02-2025 13:18:40 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /_rels/.rels
+21-02-2025 13:18:40 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21-02-2025 13:18:40 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/_rels/workbook.xml.rels
+21-02-2025 13:18:40 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21-02-2025 13:18:40 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /_rels/.rels
+21-02-2025 13:18:41 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21-02-2025 13:18:41 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/_rels/workbook.xml.rels
+21-02-2025 13:18:41 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21-02-2025 13:18:41 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /_rels/.rels
+21-02-2025 13:18:41 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21-02-2025 13:18:41 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/_rels/workbook.xml.rels
+21-02-2025 13:18:41 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21-02-2025 13:18:41 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /_rels/.rels
+21-02-2025 13:18:41 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21-02-2025 13:18:41 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/_rels/workbook.xml.rels
+21-02-2025 13:18:41 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21-02-2025 13:18:41 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /_rels/.rels
+21-02-2025 13:18:41 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21-02-2025 13:18:41 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/_rels/workbook.xml.rels
+21-02-2025 13:18:41 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21-02-2025 13:18:41 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /_rels/.rels
+21-02-2025 13:18:41 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21-02-2025 13:18:41 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/_rels/workbook.xml.rels
+21-02-2025 13:18:41 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21-02-2025 13:18:41 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /_rels/.rels
+21-02-2025 13:18:41 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21-02-2025 13:18:41 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/_rels/workbook.xml.rels
+21-02-2025 13:18:41 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21-02-2025 13:18:41 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /_rels/.rels
+21-02-2025 13:18:41 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21-02-2025 13:18:41 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/_rels/workbook.xml.rels
+21-02-2025 13:18:41 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21-02-2025 13:18:41 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /_rels/.rels
+21-02-2025 13:18:41 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21-02-2025 13:18:41 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/_rels/workbook.xml.rels
+21-02-2025 13:18:41 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21-02-2025 13:18:41 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /_rels/.rels
+21-02-2025 13:18:41 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21-02-2025 13:18:41 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/_rels/workbook.xml.rels
+21-02-2025 13:18:41 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21-02-2025 13:18:41 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /_rels/.rels
+21-02-2025 13:18:41 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21-02-2025 13:18:41 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/_rels/workbook.xml.rels
+21-02-2025 13:18:41 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21-02-2025 13:18:41 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /_rels/.rels
+21-02-2025 13:18:41 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21-02-2025 13:18:41 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/_rels/workbook.xml.rels
+21-02-2025 13:18:41 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21-02-2025 13:18:41 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /_rels/.rels
+21-02-2025 13:18:41 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21-02-2025 13:18:41 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/_rels/workbook.xml.rels
+21-02-2025 13:18:41 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+21-02-2025 13:18:41 DEBUG PackageRelationshipCollection:309 - Parsing relationship: /_rels/.rels
+21-02-2025 13:18:41 DEBUG POIXMLFactory:65 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+21-02-2025 13:18:41 INFO  TC_003_LoginDDT:15 - **** Starting TC_002_LoginTest ****
+21-02-2025 13:18:43 INFO  TC_003_LoginDDT:25 - Login performed
+21-02-2025 13:18:44 INFO  TC_003_LoginDDT:58 - **** Finished TC_002_LoginTest ****
+21-02-2025 13:18:44 INFO  TC_003_LoginDDT:15 - **** Starting TC_002_LoginTest ****
+21-02-2025 13:18:45 INFO  TC_003_LoginDDT:25 - Login performed
+21-02-2025 13:18:55 INFO  TC_003_LoginDDT:58 - **** Finished TC_002_LoginTest ****
+21-02-2025 13:18:55 INFO  TC_003_LoginDDT:15 - **** Starting TC_002_LoginTest ****
+21-02-2025 13:18:57 INFO  TC_003_LoginDDT:25 - Login performed
+21-02-2025 13:19:07 INFO  TC_003_LoginDDT:58 - **** Finished TC_002_LoginTest ****
+21-02-2025 13:19:07 INFO  TC_003_LoginDDT:15 - **** Starting TC_002_LoginTest ****
+21-02-2025 13:19:08 INFO  TC_003_LoginDDT:25 - Login performed
+21-02-2025 13:19:18 INFO  TC_003_LoginDDT:58 - **** Finished TC_002_LoginTest ****
+21-02-2025 13:19:18 INFO  TC_003_LoginDDT:15 - **** Starting TC_002_LoginTest ****
+21-02-2025 13:19:20 INFO  TC_003_LoginDDT:25 - Login performed
+21-02-2025 13:19:30 INFO  TC_003_LoginDDT:58 - **** Finished TC_002_LoginTest ****
+21-02-2025 13:19:30 INFO  TC_003_LoginDDT:15 - **** Starting TC_002_LoginTest ****
+21-02-2025 13:19:31 INFO  TC_003_LoginDDT:25 - Login performed
+21-02-2025 13:19:41 INFO  TC_003_LoginDDT:58 - **** Finished TC_002_LoginTest ****
+21-02-2025 13:19:42 INFO  TC_003_LoginDDT:15 - **** Starting TC_002_LoginTest ****
+21-02-2025 13:19:43 INFO  TC_003_LoginDDT:25 - Login performed
+21-02-2025 13:19:44 INFO  TC_003_LoginDDT:58 - **** Finished TC_002_LoginTest ****
+21-02-2025 13:19:46 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@73ca34e7: 0 ms

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite" thread-count="5">
+    <listeners>
+        <listener class-name="utilities.ExtentReportManager"/>
+    </listeners>
+    <test verbose="2" preserve-order="true" name="TC_001_AccountRegistrationTest - Chrome">
+        <parameter name="os" value="Windows"/>
+        <parameter name="browser" value="Chrome"/>
+        <classes>
+            <class name="testCases.TC_001_AccountRegistrationClass"/>
+        </classes>
+    </test>
+
+    <test verbose="2" preserve-order="true" name="TC_001_AccountRegistrationTest - Edge">
+        <parameter name="os" value="Windows"/>
+        <parameter name="browser" value="Edge"/>
+        <classes>
+            <class name="testCases.TC_001_AccountRegistrationClass"/>
+        </classes>
+    </test>
+
+    <test verbose="2" preserve-order="true" name="TC_001_AccountRegistrationTest - Firefox">
+        <parameter name="os" value="Windows"/>
+        <parameter name="browser" value="Firefox"/>
+        <classes>
+            <class name="testCases.TC_001_AccountRegistrationClass"/>
+        </classes>
+    </test>
+</suite>

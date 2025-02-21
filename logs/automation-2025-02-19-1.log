@@ -1,0 +1,968 @@
+19-02-2025 17:06:26 DEBUG TestNG:82 - suiteXmlPath: "E:\WORK\IntelliJ Projects\OpenCart\grid-docker.xml"
+19-02-2025 17:07:52 DEBUG TestNG:82 - suiteXmlPath: "E:\WORK\IntelliJ Projects\OpenCart\grid-docker.xml"
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:07:52 INFO  Utils:112 - [TestNG] Running:
+  E:\WORK\IntelliJ Projects\OpenCart\grid-docker.xml
+
+19-02-2025 17:07:52 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+19-02-2025 17:08:00 INFO  TC_001_AccountRegistrationTest:12 - **** Starting TC_001_AccountRegistrationTest ****
+19-02-2025 17:08:00 INFO  TC_001_AccountRegistrationTest:17 - Clicked on My Account
+19-02-2025 17:08:01 INFO  TC_001_AccountRegistrationTest:19 - Clicked on Register
+19-02-2025 17:08:03 INFO  TC_001_AccountRegistrationTest:32 - Filled input
+19-02-2025 17:08:03 INFO  TC_001_AccountRegistrationTest:35 - Verified 'Account Created!' message
+19-02-2025 17:08:03 INFO  TC_001_AccountRegistrationTest:47 - **** Finished TC_001_AccountRegistrationTest ****
+19-02-2025 17:08:07 INFO  TC_002_LoginTest:13 - **** Starting TC_002_LoginTest ****
+19-02-2025 17:08:09 INFO  TC_002_LoginTest:23 - Login performed
+19-02-2025 17:08:09 INFO  TC_002_LoginTest:27 - 'My Account' verified
+19-02-2025 17:08:09 INFO  TC_002_LoginTest:31 - **** Finished TC_002_LoginTest ****
+19-02-2025 17:08:11 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 1 ms.
+19-02-2025 17:08:45 INFO  TC_002_LoginTest:13 - **** Starting TC_002_LoginTest ****
+19-02-2025 17:08:47 INFO  TC_002_LoginTest:23 - Login performed
+19-02-2025 17:08:47 INFO  TC_002_LoginTest:27 - 'My Account' verified
+19-02-2025 17:08:47 INFO  TC_002_LoginTest:31 - **** Finished TC_002_LoginTest ****
+19-02-2025 17:08:48 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@161aa04a: 0 ms
+19-02-2025 17:15:01 DEBUG TestNG:82 - suiteXmlPath: "E:\WORK\IntelliJ Projects\OpenCart\grid-docker.xml"
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:15:01 INFO  Utils:112 - [TestNG] Running:
+  E:\WORK\IntelliJ Projects\OpenCart\grid-docker.xml
+
+19-02-2025 17:15:01 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+19-02-2025 17:15:10 INFO  TC_001_AccountRegistrationTest:12 - **** Starting TC_001_AccountRegistrationTest ****
+19-02-2025 17:15:11 INFO  TC_001_AccountRegistrationTest:17 - Clicked on My Account
+19-02-2025 17:15:11 INFO  TC_001_AccountRegistrationTest:19 - Clicked on Register
+19-02-2025 17:15:13 INFO  TC_001_AccountRegistrationTest:32 - Filled input
+19-02-2025 17:15:13 INFO  TC_001_AccountRegistrationTest:35 - Verified 'Account Created!' message
+19-02-2025 17:15:13 INFO  TC_001_AccountRegistrationTest:47 - **** Finished TC_001_AccountRegistrationTest ****
+19-02-2025 17:15:16 INFO  TC_002_LoginTest:13 - **** Starting TC_002_LoginTest ****
+19-02-2025 17:15:18 INFO  TC_002_LoginTest:23 - Login performed
+19-02-2025 17:15:18 INFO  TC_002_LoginTest:27 - 'My Account' verified
+19-02-2025 17:15:18 INFO  TC_002_LoginTest:31 - **** Finished TC_002_LoginTest ****
+19-02-2025 17:15:20 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 0 ms.
+19-02-2025 17:15:28 INFO  TC_001_AccountRegistrationTest:12 - **** Starting TC_001_AccountRegistrationTest ****
+19-02-2025 17:15:29 INFO  TC_001_AccountRegistrationTest:17 - Clicked on My Account
+19-02-2025 17:15:29 INFO  TC_001_AccountRegistrationTest:19 - Clicked on Register
+19-02-2025 17:15:31 INFO  TC_001_AccountRegistrationTest:32 - Filled input
+19-02-2025 17:15:31 INFO  TC_001_AccountRegistrationTest:35 - Verified 'Account Created!' message
+19-02-2025 17:15:31 INFO  TC_001_AccountRegistrationTest:47 - **** Finished TC_001_AccountRegistrationTest ****
+19-02-2025 17:15:37 INFO  TC_002_LoginTest:13 - **** Starting TC_002_LoginTest ****
+19-02-2025 17:15:39 INFO  TC_002_LoginTest:23 - Login performed
+19-02-2025 17:15:39 INFO  TC_002_LoginTest:27 - 'My Account' verified
+19-02-2025 17:15:39 INFO  TC_002_LoginTest:31 - **** Finished TC_002_LoginTest ****
+19-02-2025 17:15:40 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3ba348ca: 1 ms
+19-02-2025 17:17:35 DEBUG TestNG:82 - suiteXmlPath: "E:\WORK\IntelliJ Projects\OpenCart\grid-docker.xml"
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:17:35 INFO  Utils:112 - [TestNG] Running:
+  E:\WORK\IntelliJ Projects\OpenCart\grid-docker.xml
+
+19-02-2025 17:17:35 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 7 ms.
+19-02-2025 17:17:39 INFO  TC_001_AccountRegistrationTest:12 - **** Starting TC_001_AccountRegistrationTest ****
+19-02-2025 17:17:39 INFO  TC_001_AccountRegistrationTest:17 - Clicked on My Account
+19-02-2025 17:17:40 INFO  TC_001_AccountRegistrationTest:19 - Clicked on Register
+19-02-2025 17:17:42 INFO  TC_001_AccountRegistrationTest:32 - Filled input
+19-02-2025 17:17:42 INFO  TC_001_AccountRegistrationTest:35 - Verified 'Account Created!' message
+19-02-2025 17:17:42 INFO  TC_001_AccountRegistrationTest:47 - **** Finished TC_001_AccountRegistrationTest ****
+19-02-2025 17:17:45 INFO  TC_002_LoginTest:13 - **** Starting TC_002_LoginTest ****
+19-02-2025 17:17:47 INFO  TC_002_LoginTest:23 - Login performed
+19-02-2025 17:17:47 INFO  TC_002_LoginTest:27 - 'My Account' verified
+19-02-2025 17:17:47 INFO  TC_002_LoginTest:31 - **** Finished TC_002_LoginTest ****
+19-02-2025 17:17:48 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 0 ms.
+19-02-2025 17:17:54 INFO  TC_001_AccountRegistrationTest:12 - **** Starting TC_001_AccountRegistrationTest ****
+19-02-2025 17:17:54 INFO  TC_001_AccountRegistrationTest:17 - Clicked on My Account
+19-02-2025 17:17:55 INFO  TC_001_AccountRegistrationTest:19 - Clicked on Register
+19-02-2025 17:17:56 INFO  TC_001_AccountRegistrationTest:32 - Filled input
+19-02-2025 17:17:56 INFO  TC_001_AccountRegistrationTest:35 - Verified 'Account Created!' message
+19-02-2025 17:17:56 INFO  TC_001_AccountRegistrationTest:47 - **** Finished TC_001_AccountRegistrationTest ****
+19-02-2025 17:18:02 INFO  TC_002_LoginTest:13 - **** Starting TC_002_LoginTest ****
+19-02-2025 17:18:04 INFO  TC_002_LoginTest:23 - Login performed
+19-02-2025 17:18:04 INFO  TC_002_LoginTest:27 - 'My Account' verified
+19-02-2025 17:18:04 INFO  TC_002_LoginTest:31 - **** Finished TC_002_LoginTest ****
+19-02-2025 17:18:05 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6e0e5dec: 0 ms
+19-02-2025 17:18:46 DEBUG TestNG:82 - suiteXmlPath: "E:\WORK\IntelliJ Projects\OpenCart\crossBrowserTesting.xml"
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 11 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:18:46 INFO  Utils:112 - [TestNG] Running:
+  E:\WORK\IntelliJ Projects\OpenCart\crossBrowserTesting.xml
+
+19-02-2025 17:18:46 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.
+19-02-2025 17:21:23 DEBUG TestNG:82 - suiteXmlPath: "E:\WORK\IntelliJ Projects\OpenCart\crossBrowserTesting.xml"
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:21:23 INFO  Utils:112 - [TestNG] Running:
+  E:\WORK\IntelliJ Projects\OpenCart\crossBrowserTesting.xml
+
+19-02-2025 17:21:23 INFO  Utils:112 - [ThreadUtil] Starting executor timeOut:2147483647ms workers:3 threadPoolSize:5
+19-02-2025 17:21:24 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+19-02-2025 17:21:24 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+19-02-2025 17:21:24 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+19-02-2025 17:21:30 INFO  TC_001_AccountRegistrationTest:12 - **** Starting TC_001_AccountRegistrationTest ****
+19-02-2025 17:21:31 INFO  TC_001_AccountRegistrationTest:17 - Clicked on My Account
+19-02-2025 17:21:33 INFO  TC_001_AccountRegistrationTest:12 - **** Starting TC_001_AccountRegistrationTest ****
+19-02-2025 17:21:33 INFO  TC_001_AccountRegistrationTest:19 - Clicked on Register
+19-02-2025 17:21:33 INFO  TC_001_AccountRegistrationTest:17 - Clicked on My Account
+19-02-2025 17:21:37 INFO  TC_001_AccountRegistrationTest:12 - **** Starting TC_001_AccountRegistrationTest ****
+19-02-2025 17:21:37 INFO  TC_001_AccountRegistrationTest:17 - Clicked on My Account
+19-02-2025 17:21:39 INFO  TC_001_AccountRegistrationTest:19 - Clicked on Register
+19-02-2025 17:21:40 INFO  TC_001_AccountRegistrationTest:32 - Filled input
+19-02-2025 17:21:40 INFO  TC_001_AccountRegistrationTest:35 - Verified 'Account Created!' message
+19-02-2025 17:21:40 INFO  TC_001_AccountRegistrationTest:47 - **** Finished TC_001_AccountRegistrationTest ****
+19-02-2025 17:21:43 ERROR TC_001_AccountRegistrationTest:44 - no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='input-firstname']"}
+  (Session info: chrome=133.0.6943.100)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9cbef364d1fca4110708e712d82a6cd2, findElement {value=//input[@id='input-firstname'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 133.0.6943.100, chrome: {chromedriverVersion: 133.0.6943.126 (cffa127ce7b..., userDataDir: C:\Users\steve\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52162}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52162/devtoo..., se:cdpVersion: 133.0.6943.100, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9cbef364d1fca4110708e712d82a6cd2
+19-02-2025 17:21:43 INFO  TC_001_AccountRegistrationTest:47 - **** Finished TC_001_AccountRegistrationTest ****
+19-02-2025 17:21:47 INFO  TC_001_AccountRegistrationTest:19 - Clicked on Register
+19-02-2025 17:21:47 ERROR TC_001_AccountRegistrationTest:44 - Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '4.20.0', revision: '866c76ca80'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.5'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [null, findElement {value=//input[@id='input-firstname'], using=xpath}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 135.0.1, moz:accessibilityChecks: false, moz:buildID: 20250216192613, moz:geckodriverVersion: 0.35.0, moz:headless: false, moz:platformVersion: 10.0, moz:processID: 22128, moz:profile: C:\Users\steve\AppData\Loca..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Windows NT 10....}
+19-02-2025 17:21:47 INFO  TC_001_AccountRegistrationTest:47 - **** Finished TC_001_AccountRegistrationTest ****
+19-02-2025 17:21:52 INFO  TC_002_LoginTest:13 - **** Starting TC_002_LoginTest ****
+19-02-2025 17:21:54 INFO  TC_002_LoginTest:13 - **** Starting TC_002_LoginTest ****
+19-02-2025 17:22:04 INFO  TC_002_LoginTest:31 - **** Finished TC_002_LoginTest ****
+19-02-2025 17:22:14 INFO  TC_002_LoginTest:31 - **** Finished TC_002_LoginTest ****
+19-02-2025 17:22:17 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@7582ff54: 1 ms
+19-02-2025 17:23:26 DEBUG TestNG:82 - suiteXmlPath: "E:\WORK\IntelliJ Projects\OpenCart\crossBrowserTesting.xml"
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 14 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:23:26 INFO  Utils:112 - [TestNG] Running:
+  E:\WORK\IntelliJ Projects\OpenCart\crossBrowserTesting.xml
+
+19-02-2025 17:23:27 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+19-02-2025 17:23:31 INFO  TC_001_AccountRegistrationTest:12 - **** Starting TC_001_AccountRegistrationTest ****
+19-02-2025 17:23:31 INFO  TC_001_AccountRegistrationTest:17 - Clicked on My Account
+19-02-2025 17:23:32 INFO  TC_001_AccountRegistrationTest:19 - Clicked on Register
+19-02-2025 17:23:33 INFO  TC_001_AccountRegistrationTest:32 - Filled input
+19-02-2025 17:23:33 INFO  TC_001_AccountRegistrationTest:35 - Verified 'Account Created!' message
+19-02-2025 17:23:33 INFO  TC_001_AccountRegistrationTest:47 - **** Finished TC_001_AccountRegistrationTest ****
+19-02-2025 17:23:34 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 0 ms.
+19-02-2025 17:23:39 INFO  TC_001_AccountRegistrationTest:12 - **** Starting TC_001_AccountRegistrationTest ****
+19-02-2025 17:23:39 INFO  TC_001_AccountRegistrationTest:17 - Clicked on My Account
+19-02-2025 17:23:40 INFO  TC_001_AccountRegistrationTest:19 - Clicked on Register
+19-02-2025 17:23:42 INFO  TC_001_AccountRegistrationTest:32 - Filled input
+19-02-2025 17:23:43 INFO  TC_001_AccountRegistrationTest:35 - Verified 'Account Created!' message
+19-02-2025 17:23:43 INFO  TC_001_AccountRegistrationTest:47 - **** Finished TC_001_AccountRegistrationTest ****
+19-02-2025 17:23:45 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 0 ms.
+19-02-2025 17:23:52 INFO  TC_001_AccountRegistrationTest:12 - **** Starting TC_001_AccountRegistrationTest ****
+19-02-2025 17:23:52 INFO  TC_001_AccountRegistrationTest:17 - Clicked on My Account
+19-02-2025 17:23:53 INFO  TC_001_AccountRegistrationTest:19 - Clicked on Register
+19-02-2025 17:23:54 INFO  TC_001_AccountRegistrationTest:32 - Filled input
+19-02-2025 17:23:54 INFO  TC_001_AccountRegistrationTest:35 - Verified 'Account Created!' message
+19-02-2025 17:23:54 INFO  TC_001_AccountRegistrationTest:47 - **** Finished TC_001_AccountRegistrationTest ****
+19-02-2025 17:23:56 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@777d191f: 0 ms
+19-02-2025 17:26:17 DEBUG TestNG:82 - suiteXmlPath: "E:\WORK\IntelliJ Projects\OpenCart\grid-docker.xml"
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 8 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 3 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 17:26:17 INFO  Utils:112 - [TestNG] Running:
+  E:\WORK\IntelliJ Projects\OpenCart\grid-docker.xml
+
+19-02-2025 17:26:17 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+19-02-2025 17:26:24 INFO  TC_001_AccountRegistrationTest:12 - **** Starting TC_001_AccountRegistrationTest ****
+19-02-2025 17:26:24 INFO  TC_001_AccountRegistrationTest:17 - Clicked on My Account
+19-02-2025 17:26:25 INFO  TC_001_AccountRegistrationTest:19 - Clicked on Register
+19-02-2025 17:26:27 INFO  TC_001_AccountRegistrationTest:32 - Filled input
+19-02-2025 17:26:27 INFO  TC_001_AccountRegistrationTest:35 - Verified 'Account Created!' message
+19-02-2025 17:26:27 INFO  TC_001_AccountRegistrationTest:47 - **** Finished TC_001_AccountRegistrationTest ****
+19-02-2025 17:26:30 INFO  TC_002_LoginTest:13 - **** Starting TC_002_LoginTest ****
+19-02-2025 17:26:32 INFO  TC_002_LoginTest:23 - Login performed
+19-02-2025 17:26:32 INFO  TC_002_LoginTest:27 - 'My Account' verified
+19-02-2025 17:26:32 INFO  TC_002_LoginTest:31 - **** Finished TC_002_LoginTest ****
+19-02-2025 17:26:33 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 0 ms.
+19-02-2025 17:26:50 INFO  TC_001_AccountRegistrationTest:12 - **** Starting TC_001_AccountRegistrationTest ****
+19-02-2025 17:26:51 INFO  TC_001_AccountRegistrationTest:17 - Clicked on My Account
+19-02-2025 17:26:52 INFO  TC_001_AccountRegistrationTest:19 - Clicked on Register
+19-02-2025 17:26:54 INFO  TC_001_AccountRegistrationTest:32 - Filled input
+19-02-2025 17:26:54 INFO  TC_001_AccountRegistrationTest:35 - Verified 'Account Created!' message
+19-02-2025 17:26:54 INFO  TC_001_AccountRegistrationTest:47 - **** Finished TC_001_AccountRegistrationTest ****
+19-02-2025 17:27:01 INFO  TC_002_LoginTest:13 - **** Starting TC_002_LoginTest ****
+19-02-2025 17:27:03 INFO  TC_002_LoginTest:23 - Login performed
+19-02-2025 17:27:03 INFO  TC_002_LoginTest:27 - 'My Account' verified
+19-02-2025 17:27:03 INFO  TC_002_LoginTest:31 - **** Finished TC_002_LoginTest ****
+19-02-2025 17:27:05 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@345d053b: 0 ms
+19-02-2025 18:46:55 DEBUG TestNG:82 - suiteXmlPath: "E:\WORK\IntelliJ Projects\OpenCart\master.xml"
+19-02-2025 18:46:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 18:46:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+19-02-2025 18:46:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 18:46:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 18:46:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 18:46:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 18:46:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 18:46:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 18:46:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+19-02-2025 18:46:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 13 ms.
+19-02-2025 18:46:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 18:46:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+19-02-2025 18:46:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 18:46:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 18:46:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 18:46:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 18:46:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 18:46:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 18:46:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 18:46:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 18:46:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 18:46:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 18:46:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 18:46:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 18:46:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 18:46:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+19-02-2025 18:46:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 18:46:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 18:46:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 18:46:55 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 18:46:55 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+19-02-2025 18:46:57 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@22587507: 111 ms
+19-02-2025 18:46:57 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@2127e66e: 11 ms
+19-02-2025 18:46:57 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@7ff35a3f: 10 ms
+19-02-2025 18:46:57 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@421056e5: 9 ms
+19-02-2025 18:46:57 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@43e9089: 8 ms
+19-02-2025 18:46:57 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@3c5dbdf8: 0 ms
+19-02-2025 18:47:15 DEBUG TestNG:82 - suiteXmlPath: "E:\WORK\IntelliJ Projects\OpenCart\master.xml"
+19-02-2025 18:47:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+19-02-2025 18:47:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 18:47:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 18:47:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 18:47:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 18:47:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 18:47:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 18:47:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 18:47:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+19-02-2025 18:47:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+19-02-2025 18:47:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 18:47:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 18:47:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 18:47:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 18:47:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 18:47:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 18:47:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 18:47:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 18:47:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 18:47:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 18:47:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 18:47:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 18:47:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 18:47:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 18:47:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+19-02-2025 18:47:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 18:47:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 18:47:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 18:47:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+19-02-2025 18:47:16 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+19-02-2025 18:47:16 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 4 ms.
+19-02-2025 18:47:22 INFO  TC_001_AccountRegistrationTest:12 - **** Starting TC_001_AccountRegistrationTest ****
+19-02-2025 18:47:22 INFO  TC_001_AccountRegistrationTest:17 - Clicked on My Account
+19-02-2025 18:47:23 INFO  TC_001_AccountRegistrationTest:19 - Clicked on Register
+19-02-2025 18:47:24 INFO  TC_001_AccountRegistrationTest:32 - Filled input
+19-02-2025 18:47:24 INFO  TC_001_AccountRegistrationTest:35 - Verified 'Account Created!' message
+19-02-2025 18:47:24 INFO  TC_001_AccountRegistrationTest:47 - **** Finished TC_001_AccountRegistrationTest ****
+19-02-2025 18:47:26 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@4cb2918c: 83 ms
+19-02-2025 18:47:26 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@72e295cc: 1 ms
+19-02-2025 18:47:26 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@265bd546: 14 ms
+19-02-2025 18:47:26 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@3722c145: 7 ms
+19-02-2025 18:47:26 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@4bc33720: 5 ms
+19-02-2025 18:47:26 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@2dd0f797: 0 ms
