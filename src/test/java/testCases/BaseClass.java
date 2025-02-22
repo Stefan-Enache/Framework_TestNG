@@ -54,14 +54,18 @@ public class BaseClass {
             }
         } else if (properties.getProperty("execution_environment").equalsIgnoreCase("remote")) {
             DesiredCapabilities desiredCapabilities = new DesiredCapabilities();
-            if (os.equalsIgnoreCase("windows")) {
-                desiredCapabilities.setPlatform(Platform.WIN10);
-            } else if (os.equalsIgnoreCase("mac")) {
-                desiredCapabilities.setPlatform(Platform.MAC);
-            } else if (os.equalsIgnoreCase("linux")) {
-                desiredCapabilities.setPlatform(Platform.LINUX);
-            } else {
-                System.out.println("Incorrect OS specified in XML");
+            switch (os.toLowerCase()) {
+                case "windows":
+                    desiredCapabilities.setPlatform(Platform.WIN10);
+                    break;
+                case "mac":
+                    desiredCapabilities.setPlatform(Platform.MAC);
+                    break;
+                case "linux":
+                    desiredCapabilities.setPlatform(Platform.LINUX);
+                    break;
+                default:
+                    System.out.println("Incorrect OS specified in XML");
             }
 
             switch (browser.toLowerCase()) {
