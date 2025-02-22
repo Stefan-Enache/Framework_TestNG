@@ -70,56 +70,6 @@ public class ExcelUtility {
         return data;
     }
 
-    public void setCellData(String sheetName, int rowNum, int colNum, String data) throws IOException {
-        File xlfile = new File(path);
-        if (!xlfile.exists())    // If the file does not exist then create a new file
-        {
-            workbook = new XSSFWorkbook();
-            fileOutput = new FileOutputStream(path);
-            workbook.write(fileOutput);
-        }
-
-        fileInput = new FileInputStream(path);
-        workbook = new XSSFWorkbook(fileInput);
-
-        if (workbook.getSheetIndex(sheetName) == -1) {  // If sheet does not exist then create a new Sheet      // workbook.getSheet(sheetName) == null
-            workbook.createSheet(sheetName);
-        }
-        sheet = workbook.getSheet(sheetName);
-
-        if (sheet.getRow(rowNum) == null)   {   // If row does not exist then create a new Row
-            sheet.createRow(rowNum);
-            }
-        row = sheet.getRow(rowNum);
-
-        cell = row.createCell(colNum);
-        cell.setCellValue(data);
-        fileOutput = new FileOutputStream(path);
-        workbook.write(fileOutput);
-        workbook.close();
-        fileInput.close();
-        fileOutput.close();
-    }
-
-    public void fillColor(String sheetName, int rowNum, int colNum, short indexedColors) throws IOException {
-        fileInput = new FileInputStream(path);
-        workbook = new XSSFWorkbook(fileInput);
-        sheet = workbook.getSheet(sheetName);
-        row = sheet.getRow(rowNum);
-        cell = row.getCell(colNum);
-
-        style = workbook.createCellStyle();
-
-        style.setFillForegroundColor(indexedColors);
-        style.setFillPattern(FillPatternType.SOLID_FOREGROUND);
-
-        cell.setCellStyle(style);
-        workbook.write(fileOutput);
-        workbook.close();
-        fileInput.close();
-        fileOutput.close();
-    }
-
 }
 
 

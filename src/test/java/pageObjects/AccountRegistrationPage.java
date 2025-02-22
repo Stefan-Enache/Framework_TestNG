@@ -75,24 +75,25 @@ public class AccountRegistrationPage extends BasePage {
     }
 
     public void clickContinue() {
-        // Sol1
+
+        // Solution 1
         btnContinue.click();
 
-        // Sol2
+//        // Solution 2
 //        btnContinue.submit();
-
-        // Sol3
+//
+//        // Solution 3
 //        Actions act = new Actions(driver);
 //        act.moveToElement(btnContinue).click().perform();
-
-        // Sol4
+//
+//        // Solution 4
 //        JavascriptExecutor js = (JavascriptExecutor)driver;
 //        js.executeScript("arguments[0].click();", btnContinue);
-
-        // Sol 5
+//
+//        // Solution 5
 //        btnContinue.sendKeys(Keys.RETURN);
-
-        // Sol6
+//
+//        // Solution 6
 //        WebDriverWait myWait = new WebDriverWait(driver, Duration.ofSeconds(10));
 //        myWait.until(ExpectedConditions.elementToBeClickable(btnContinue)).click();
     }

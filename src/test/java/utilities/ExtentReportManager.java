@@ -28,12 +28,12 @@ public class ExtentReportManager implements ITestListener {
     String repName;
 
     public void onStart(ITestContext testContext) {
-        String timeStamp = new SimpleDateFormat("yyyy.MM.dd_HH;mm;ss").format(new Date());  // time stamp
+        String timeStamp = new SimpleDateFormat("dd.MM.yyyy_HH;mm;ss").format(new Date());  // time stamp
         repName = "Test-Report-" + timeStamp + ".html";
 
         sparkReporter = new ExtentSparkReporter(".\\reports\\" + repName);  // location of the report
         sparkReporter.config().setDocumentTitle("OpenCart Automation Report");   // Title of report
-        sparkReporter.config().setReportName("OpenCart Functional Testing");     // name of the report
+        sparkReporter.config().setReportName("OpenCart UI Automation Tests");     // name of the report
         sparkReporter.config().setTheme(Theme.DARK);
 
         extent = new ExtentReports();
@@ -56,7 +56,7 @@ public class ExtentReportManager implements ITestListener {
 
     public void onTestSuccess(ITestResult result) {
         test = extent.createTest(result.getTestClass().getName());
-        test.assignCategory(result.getMethod().getGroups());    // to display groups in report
+        test.assignCategory(result.getMethod().getGroups());    // display groups in report
         test.log(Status.PASS, result.getName() + " - Passed");
     }
 
@@ -87,15 +87,14 @@ public class ExtentReportManager implements ITestListener {
         File extentReport = new File(pathOfExtentReport);
 
         try {
-            Desktop.getDesktop().browse(extentReport.toURI());
+            Desktop.getDesktop().browse(extentReport.toURI());  // open report automatically
         } catch (IOException e) {
             e.printStackTrace();
         }
 
+        // Create email for report
 //        try {
 //            URL url = new URL("file:\\" + System.getProperty("user.dir") + "\\reports\\" + repName);
-
-//            // Create email message
 //            ImageHtmlEmail email = new ImageHtmlEmail();
 //            email.setDataSourceResolver(new DataSourceUrlResolver(url));
 //            email.setHostName("smtp.gmail.com");

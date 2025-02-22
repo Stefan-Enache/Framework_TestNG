@@ -46,7 +46,6 @@ public class TC_001_AccountRegistrationClass extends BaseClass {
         } finally {
             log.info("**** Finished TC_001_AccountRegistrationTest ****");
         }
-
     }
 
 }

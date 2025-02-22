@@ -20,7 +20,7 @@ public class TC_002_LoginClass extends BaseClass {
             loginPage.setEmail(properties.getProperty("email"));
             loginPage.setPassword(properties.getProperty("password"));
             loginPage.clickLogin();
-            log.info("Login performed");
+            log.info("Clicked Login button");
 
             MyAccountPage myAccountPage = new MyAccountPage(driver);
             Assert.assertTrue(myAccountPage.isMyAccountHeadingPresent(), "'My Account' heading is not present");

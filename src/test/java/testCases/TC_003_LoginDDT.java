@@ -40,14 +40,14 @@ public class TC_003_LoginDDT extends BaseClass {
                     myAccountPage.clickLogout();
                     Assert.assertTrue(true);
                 } else {
-                    Assert.fail("Email and password are actually Invalid but the expected result is Valid");
+                    Assert.fail("Email and password are actually Invalid but the expected result in Excel is Valid");
                 }
             }
 
             if (expected.equalsIgnoreCase("Invalid")) {
                 if (loginsStatus) {
                     myAccountPage.clickLogout();
-                    Assert.fail("Email and password are actually Valid but the expected result is Invalid");
+                    Assert.fail("Email and password are actually Valid but the expected result in Excel is Invalid");
                 } else {
                     Assert.assertTrue(true);
                 }

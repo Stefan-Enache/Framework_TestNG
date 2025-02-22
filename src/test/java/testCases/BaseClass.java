@@ -107,7 +107,7 @@ public class BaseClass {
     }
 
     public String captureScreenshot(String testName) {
-        String timeStamp = new SimpleDateFormat("yyyy.MM.dd_HH;mm;ss").format(new Date());
+        String timeStamp = new SimpleDateFormat("dd.MM.yyyy_HH;mm;ss").format(new Date());
         TakesScreenshot takesScreenshot = (TakesScreenshot) driver;
         File sourceFile = takesScreenshot.getScreenshotAs(OutputType.FILE);
         String targetFilePath = System.getProperty("user.dir") + "\\screenshots\\" + testName + "_" + timeStamp + ".png";
