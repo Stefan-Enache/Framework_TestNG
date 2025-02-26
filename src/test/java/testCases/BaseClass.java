@@ -88,8 +88,9 @@ public class BaseClass {
         }
 
         driver.manage().deleteAllCookies();
+        driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(5));
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
-        driver.get(properties.getProperty("appURL")); //reading URL from Properties file
+        driver.get(properties.getProperty("appURL")); // reading URL from Properties file
         driver.manage().window().maximize();
     }
 
